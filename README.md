@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Sydney Scott
+2. Student ID: 2371121
+3. Email: syscott@chapman.edu
+4. Class: cpsc-298
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -16,9 +16,10 @@ A bash script named “numbers.sh” that will
 2. numbers-input
 
 ## Known Errors 
+Couldn't find the clone button, so I didn't know how to make a new file through the terminal. So I just edited on Github.
 
 ## References
-
+canvas
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
