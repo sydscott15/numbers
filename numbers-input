@@ -1,1 +1,15 @@
-11
+#! /bin/bash"
+#number.sh
+#Sydney Scott
+echo "Enter a positive number":
+read number
+while [1 -lt $a]
+do
+  echo $a
+  a = number
+if number is even
+then
+echo "Your number is even."
+if number is odd
+then
+echo "Your number is odd."
